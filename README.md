@@ -9,15 +9,15 @@ This README will guide you on how to run and play the game.
 
 # Table of Contents
 
-1.How to Play
+How to Play
 
-2.Game Controls
+Game Controls
 
-3.Running the Game
+Running the Game
 
-4.Exit
+Exit
 
-5.Author
+Author
 
 # How to Play
 
