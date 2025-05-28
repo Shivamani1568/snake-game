@@ -9,17 +9,17 @@ This README will guide you on how to run and play the game.
 
 # Table of Contents
 
-How to Play
+1.How to Play
 
-Game Controls
+2.Game Controls
 
-Running the Game
+3.Running the Game
 
-Exit
+4.Exit
 
-Author
+5.Author
 
-#How to Play
+# How to Play
 
 The snake starts still in the center of the screen.
 
